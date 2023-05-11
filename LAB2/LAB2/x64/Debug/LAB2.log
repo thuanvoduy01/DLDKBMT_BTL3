@@ -1,0 +1,111 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartAxis.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartAxis.cpp, ChartCtrl\ChartAxis.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartAxisLabel.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartAxisLabel.cpp, ChartCtrl\ChartAxisLabel.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartBarSerie.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartBarSerie.cpp, ChartCtrl\ChartBarSerie.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartCandlestickSerie.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartCandlestickSerie.cpp, ChartCtrl\ChartCandlestickSerie.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartCrossHairCursor.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartCrossHairCursor.cpp, ChartCtrl\ChartCrossHairCursor.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartCtrl.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartCtrl.cpp, ChartCtrl\ChartCtrl.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartCursor.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartCursor.cpp, ChartCtrl\ChartCursor.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartDateTimeAxis.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartDateTimeAxis.cpp, ChartCtrl\ChartDateTimeAxis.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartDragLineCursor.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartDragLineCursor.cpp, ChartCtrl\ChartDragLineCursor.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartFont.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartFont.cpp, ChartCtrl\ChartFont.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartGanttSerie.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartGanttSerie.cpp, ChartCtrl\ChartGanttSerie.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartGradient.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartGradient.cpp, ChartCtrl\ChartGradient.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartGrid.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartGrid.cpp, ChartCtrl\ChartGrid.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartLegend.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartLegend.cpp, ChartCtrl\ChartLegend.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartLineSerie.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartLineSerie.cpp, ChartCtrl\ChartLineSerie.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartLogarithmicAxis.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartLogarithmicAxis.cpp, ChartCtrl\ChartLogarithmicAxis.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartPointsSerie.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartPointsSerie.cpp, ChartCtrl\ChartPointsSerie.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartScrollBar.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartScrollBar.cpp, ChartCtrl\ChartScrollBar.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartSerie.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartSerie.cpp, ChartCtrl\ChartSerie.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartStandardAxis.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartStandardAxis.cpp, ChartCtrl\ChartStandardAxis.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartSurfaceSerie.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartSurfaceSerie.cpp, ChartCtrl\ChartSurfaceSerie.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartTitle.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartTitle.cpp, ChartCtrl\ChartTitle.cpp.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1098,5): warning MSB8027: Two or more files with the name of ChartXYSerie.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartXYSerie.cpp, ChartCtrl\ChartXYSerie.cpp.
+  pch.cpp
+  ChartAxis.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartAxis.cpp': No such file or directory
+  ChartAxisLabel.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartAxisLabel.cpp': No such file or directory
+  ChartBarSerie.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartBarSerie.cpp': No such file or directory
+  ChartCandlestickSerie.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartCandlestickSerie.cpp': No such file or directory
+  ChartCrossHairCursor.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartCrossHairCursor.cpp': No such file or directory
+  ChartCtrl.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartCtrl.cpp': No such file or directory
+  ChartCursor.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartCursor.cpp': No such file or directory
+  ChartDateTimeAxis.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartDateTimeAxis.cpp': No such file or directory
+  ChartDragLineCursor.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartDragLineCursor.cpp': No such file or directory
+  ChartFont.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartFont.cpp': No such file or directory
+  ChartGanttSerie.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartGanttSerie.cpp': No such file or directory
+  ChartGradient.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartGradient.cpp': No such file or directory
+  ChartGrid.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartGrid.cpp': No such file or directory
+  ChartLegend.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartLegend.cpp': No such file or directory
+  ChartLineSerie.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartLineSerie.cpp': No such file or directory
+  ChartLogarithmicAxis.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartLogarithmicAxis.cpp': No such file or directory
+  ChartPointsSerie.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartPointsSerie.cpp': No such file or directory
+  ChartScrollBar.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartScrollBar.cpp': No such file or directory
+  ChartSerie.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartSerie.cpp': No such file or directory
+  ChartStandardAxis.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartStandardAxis.cpp': No such file or directory
+  Generating Code...
+  Compiling...
+  ChartSurfaceSerie.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartSurfaceSerie.cpp': No such file or directory
+  ChartTitle.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartTitle.cpp': No such file or directory
+  ChartXYSerie.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\BTL2\ChartCtrl-master\ChartCtrl-master\ChartCtrl\ChartXYSerie.cpp': No such file or directory
+  ChartAxis.cpp
+D:\BTL2_DLMT\LAB2\LAB2\LAB2\LAB2\ChartCtrl\ChartAxis.cpp(305,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\BTL2_DLMT\LAB2\LAB2\LAB2\LAB2\ChartCtrl\ChartAxis.cpp(315,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChartAxisLabel.cpp
+  ChartBarSerie.cpp
+  ChartCandlestickSerie.cpp
+  ChartCrossHairCursor.cpp
+  ChartCtrl.cpp
+D:\BTL2_DLMT\LAB2\LAB2\LAB2\LAB2\ChartCtrl\ChartCtrl.cpp(623,61): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  ChartCursor.cpp
+  ChartDateTimeAxis.cpp
+  ChartDragLineCursor.cpp
+  ChartFont.cpp
+  ChartGanttSerie.cpp
+  ChartGradient.cpp
+  ChartGrid.cpp
+  ChartLegend.cpp
+  ChartLineSerie.cpp
+  ChartLogarithmicAxis.cpp
+  ChartPointsSerie.cpp
+  Generating Code...
+  Compiling...
+  ChartScrollBar.cpp
+  ChartSerie.cpp
+  ChartStandardAxis.cpp
+  ChartSurfaceSerie.cpp
+  ChartTitle.cpp
+D:\BTL2_DLMT\LAB2\LAB2\LAB2\LAB2\ChartCtrl\ChartTitle.cpp(122,62): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\BTL2_DLMT\LAB2\LAB2\LAB2\LAB2\ChartCtrl\ChartTitle.cpp(176,62): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  ChartXYSerie.cpp
+  LAB2.cpp
+  LAB2Dlg.cpp
+D:\BTL2_DLMT\LAB2\LAB2\LAB2\LAB2\LAB2Dlg.cpp(649,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BTL2_DLMT\LAB2\LAB2\LAB2\LAB2\LAB2Dlg.cpp(651,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\BTL2_DLMT\LAB2\LAB2\LAB2\LAB2\LAB2Dlg.cpp(653,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MotionGenerator.cpp
+  SerialCtrl.cpp
+  ultil.cpp
+  Generating Code...
